@@ -17,6 +17,6 @@
 
 
 # Add a sua Stripe Pk and Sk keys dentro de chare.js e charge.php
-p
+
 
 ```
